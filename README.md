@@ -8,7 +8,7 @@ The token of Arbitrum is called **ARB**.
 
 In short: **Ethereum is slow and expensive, Arbitrum is faster and cheaper. ARB is the token that lets people help run the system.
 
-o
+oo
 
 
 
